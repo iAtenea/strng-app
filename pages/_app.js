@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }) {
           <a>Inicio</a>
         </Link>
         <Link href="/about">
-          <a>Sobre Nosotros</a>
+          <a>SOBRE Nosotros</a>
         </Link>
         <li>Iniciar Sesión</li>
         <li>Crear Cuenta</li>
